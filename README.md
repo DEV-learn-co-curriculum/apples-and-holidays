@@ -67,7 +67,7 @@ ex:
 
 6. Write a method that uses a loop to list out all the supplies you have for each holiday and the season.
 
-
+blah blah
         Output:
     ```
     Winter:
